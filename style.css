@@ -2,4 +2,25 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  
+}
+h1{
+  color: red;
+  text-align: center;
+  image:center;
+  
+}
+<nav{
+  links:centre;
+  padding:10px;
+  color:grey;
+  font-size:center;
+  text-align:center;
+
+}
+<div{
+  width:800px;
+}
+<div{
+align-items;left:
 }
